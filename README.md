@@ -1,6 +1,8 @@
 git status
-git add [files]
-git commit -m "comment"
+git add [files] - добавляет файлы в stage
+git commit -m "comment" - commit = запись
+git log / git log --oneline
+git push [rep_limk] [branch_name]
 
 
 
