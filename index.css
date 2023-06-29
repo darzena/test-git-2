@@ -1,0 +1,28 @@
+body{
+    margin: auto;
+    padding: 0;
+    width: 1200px;
+    background: rgb(238, 242, 156);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 34px;
+    color: rgb(37, 2, 58);
+    font-weight: bold;
+}
+.Navig{
+    text-align: center;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    margin-top: 15px;
+}
+.box{
+    border: 1px dashed black;
+    height: 200px;
+}
+
+
+
